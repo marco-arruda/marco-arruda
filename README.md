@@ -1,17 +1,16 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# ❤ Olá, bom ter você por aqui!
+#  Olá, é um prazer receber você! 👋
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://linkedin.com/in/eimarcoo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Sou desenvolvedor Full Stack Jr., amo jogos moba, e já participei e estive no pódio da [ONDA 2018](https://uergs.edu.br/premiacao-da-2-olimpiada-nacional-de-aplicativos-ocorrera-neste-sabado-em-gramado) e do [Hackaton São João Sustentável (2024)](https://www.instagram.com/p/C8uCYmEuSOM/?img_index=7).
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- ❤ Estudante de Análise e Desenvolvimento de Sistemas
+- 👩‍💻 Aprendendo algo sobre back-end e .NET
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
