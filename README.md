@@ -7,7 +7,7 @@
   </a>
 </div>
 
-Sou desenvolvedor Full Stack Jr., amo jogos moba, e já participei e estive no pódio da [ONDA 2018](https://uergs.edu.br/premiacao-da-2-olimpiada-nacional-de-aplicativos-ocorrera-neste-sabado-em-gramado) e do [Hackaton São João Sustentável (2024)](https://www.instagram.com/p/C8uCYmEuSOM/?img_index=7).
+Sou desenvolvedor Full Stack Jr., amo jogos moba, e já participei e estive no pódio da [ONDA (2018)](https://uergs.edu.br/premiacao-da-2-olimpiada-nacional-de-aplicativos-ocorrera-neste-sabado-em-gramado) e do [Hackaton São João Sustentável (2024)](https://www.instagram.com/p/C8uCYmEuSOM/?img_index=7).
 
 - ❤ Estudante de Análise e Desenvolvimento de Sistemas
 - 👩‍💻 Aprendendo algo sobre back-end e .NET
