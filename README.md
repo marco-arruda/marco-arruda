@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
 </div>
 
 
