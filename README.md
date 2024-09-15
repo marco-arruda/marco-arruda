@@ -6,6 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div>
+  <img src="ithub.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
+</div>
+
+
 <!---
 marco-arruda/marco-arruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
